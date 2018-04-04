@@ -1,0 +1,562 @@
+[
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Acorn",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Apple",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Armoranth",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Armored Carp",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Armored Porgy",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Big Hearty Radish",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Big Hearty Radish",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Bird Egg",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Bird Meat",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Bladed Rhino Beetle",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Blue Nightshade",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Bokoblin Fang",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Bokoblin Guts",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Bokoblin Horn",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Cane Sugar",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Chillfin Trout",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Cold Darner",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Courser Bee Honey",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Electric Keese Wing",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Electric Safflina",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Endura Carrot",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Endura Shroom",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Fire Keese Wing",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Fleet-Lotus Seeds",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Fortified Pumpkin",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Fresh Milk",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Goat Butter",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hearty Bass",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hearty Durian",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hearty Lizard",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hearty Radish",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hearty Salmon",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hearty Truffle",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hightail Lizard",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hot-Footed Frog",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hydromelon",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hylian Rice",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hylian Shroom",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hyrule Bass",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Hyrule Herb",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Ice Keese Wing",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Ironshroom",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Keese Eyeball",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Keese Wing",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Lizalfos Horn",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Lizalfos Talon",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Mighty Bananas",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Mighty Carp",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Mighty Porgy",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Mighty Thistle",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Moblin Fang",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Moblin Guts",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Moblin Horn",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Octo Balloon",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Octorok Eyeball",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Octorok Tentacle",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Palm Fruit",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Raw Bird Drumstick",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Raw Prime Meat",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Raw Meat",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Razorshroom",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Restless Cricket",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Rock Salt",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Rushroom",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Silent Princess",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Silent Shroom",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Sizzlefin Trout",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Sizzlewing Butterfly",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Sneaky River Snail",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Spicy Pepper",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Stamella Shroom",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Staminoka Bass",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Sunshroom",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Sunset Firefly",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Swift Carrot",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Swift Violet",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Tabantha Wheat",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Tireless Frog",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Voltfruit",
+    "recipes": null,
+    "special_effect": null
+  },
+  {
+    "common_locations": null,
+    "health_boost": null,
+    "name": "Warm Safflina",
+    "recipes": null,
+    "special_effect": null
+  }
+]

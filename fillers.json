@@ -1,0 +1,209 @@
+[
+  {
+    "category": "fillers",
+    "duration": "1:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Bird Egg",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1:20",
+    "effect": null,
+    "hearts": "0.5",
+    "name": "Fresh Milk",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "0:50",
+    "effect": null,
+    "hearts": "0.25*",
+    "name": "Acorn",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1:20",
+    "effect": null,
+    "hearts": "0",
+    "name": "Cane Sugar",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "0:40",
+    "effect": null,
+    "hearts": "0.25*",
+    "name": "Chickaloo Tree Nut",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1:20",
+    "effect": null,
+    "hearts": "0",
+    "name": "Goat Butter",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1:00",
+    "effect": null,
+    "hearts": "1",
+    "name": "Hylian Rice",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1:00",
+    "effect": null,
+    "hearts": "1",
+    "name": "Tabantha Wheat",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1:00",
+    "effect": null,
+    "hearts": "0",
+    "name": "Rock Salt",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1:30",
+    "effect": null,
+    "hearts": "0",
+    "name": "Goron Spice",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1/10/30:00",
+    "effect": null,
+    "hearts": "0",
+    "name": "Monster Extract",
+    "resale": "0",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1:30",
+    "effect": null,
+    "hearts": "0.625",
+    "name": "Dinraal’s Scale",
+    "resale": "0",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "3:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Dinraal’s Claw",
+    "resale": "0",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "10:30",
+    "effect": null,
+    "hearts": "1.25",
+    "name": "Shard of Dinraal’s Fang",
+    "resale": "0",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "30:00",
+    "effect": null,
+    "hearts": "1.875",
+    "name": "Shard of Dinraal’s Horn",
+    "resale": "0",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1:30",
+    "effect": null,
+    "hearts": "0.625",
+    "name": "Naydra’s Scale",
+    "resale": "0",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "3:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Naydra’s Claw",
+    "resale": "0",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "10:30",
+    "effect": null,
+    "hearts": "1.25",
+    "name": "Shard of Naydra’s Fang",
+    "resale": "0",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "30:00",
+    "effect": null,
+    "hearts": "1.875",
+    "name": "Shard of Naydra’s Horn",
+    "resale": "0",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "1:30",
+    "effect": null,
+    "hearts": "0.625",
+    "name": "Farosh’s Scale",
+    "resale": "150",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "3:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Farosh’s Claw",
+    "resale": "0",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "10:30",
+    "effect": null,
+    "hearts": "1.25",
+    "name": "Shard of Farosh’s Fang",
+    "resale": "250",
+    "type": null
+  },
+  {
+    "category": "fillers",
+    "duration": "30:00",
+    "effect": null,
+    "hearts": "1.875",
+    "name": "Shard of Farosh’s Horn",
+    "resale": "300",
+    "type": null
+  }
+]

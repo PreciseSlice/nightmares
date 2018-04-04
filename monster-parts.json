@@ -1,0 +1,344 @@
+[
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Bokoblin Horn",
+    "resale": "3",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Bokoblin Fang",
+    "resale": "8",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Bokoblin Guts",
+    "resale": "20",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Moblin Horn",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Moblin Fang",
+    "resale": "12",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Moblin Guts",
+    "resale": "25",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Lizalfos Horn",
+    "resale": "10",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Lizalfos Talon",
+    "resale": "15",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Lizalfos Tail",
+    "resale": "28",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Icy Lizalfos Tail",
+    "resale": "35",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Red Lizalfos Tail",
+    "resale": "35",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Yellow Lizalfos Tail",
+    "resale": "35",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Lynel Horn",
+    "resale": "40",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Lynel Hoof",
+    "resale": "50",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Lynel Guts",
+    "resale": "200",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Chuchu Jelly",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "White Chuchu Jelly",
+    "resale": "10",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Red Chuchu Jelly",
+    "resale": "10",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Yellow Chuchu Jelly",
+    "resale": "10",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Keese Wing",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Ice Keese Wing",
+    "resale": "6",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Fire Keese Wing",
+    "resale": "6",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Electric Keese Wing",
+    "resale": "6",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Keese Eyeball",
+    "resale": "20",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Octorok Tentacle",
+    "resale": "10",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Octorok Eyeball",
+    "resale": "25",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Octo Balloon",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Hinox Toenail",
+    "resale": "20",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Hinox Tooth",
+    "resale": "35",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Hinox Guts",
+    "resale": "80",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Molduga Fin",
+    "resale": "30",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Molduga Guts",
+    "resale": "110",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Ancient Screw",
+    "resale": "12",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Ancient Spring",
+    "resale": "15",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Ancient Gear",
+    "resale": "30",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "1:50",
+    "effect": null,
+    "hearts": null,
+    "name": "Ancient Shaft",
+    "resale": "40",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Ancient Core",
+    "resale": "80",
+    "type": null
+  },
+  {
+    "category": "monster parts",
+    "duration": "3:10",
+    "effect": null,
+    "hearts": null,
+    "name": "Giant Ancient Core",
+    "resale": "200",
+    "type": null
+  }
+]

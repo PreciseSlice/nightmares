@@ -1,0 +1,155 @@
+[
+  {
+    "category": "critters",
+    "duration": "0:50",
+    "effect": "Mighty",
+    "hearts": null,
+    "name": "Bladed Rhino Beetle",
+    "resale": "4",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "2:30",
+    "effect": "Chilly",
+    "hearts": null,
+    "name": "Cold Darner",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "2:30",
+    "effect": "Electro",
+    "hearts": null,
+    "name": "Electric Darner",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": null,
+    "effect": "Energizing",
+    "hearts": null,
+    "name": "Energetic Rhino Beetle",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "2:30",
+    "effect": "Fireproof",
+    "hearts": null,
+    "name": "Fireproof Lizard",
+    "resale": "5",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": null,
+    "effect": "Hearty",
+    "hearts": null,
+    "name": "Hearty Lizard",
+    "resale": "20",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "1:00",
+    "effect": "Hasty",
+    "hearts": null,
+    "name": "Hightail Lizard",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "1:00",
+    "effect": "Hasty",
+    "hearts": null,
+    "name": "Hot-footed Frog",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": null,
+    "effect": "Energizing",
+    "hearts": null,
+    "name": "Restless Cricket",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "0:50",
+    "effect": "Tough",
+    "hearts": null,
+    "name": "Rugged Rhino Beetle",
+    "resale": "4",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "2:30",
+    "effect": "Fireproof",
+    "hearts": null,
+    "name": "Smotherwing Butterfly",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "2:30",
+    "effect": "Spicy",
+    "hearts": null,
+    "name": "Summerwing Butterfly",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "2:00",
+    "effect": "Sneaky",
+    "hearts": null,
+    "name": "Sunset Firefly",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "2:30",
+    "effect": "Electro",
+    "hearts": null,
+    "name": "Thunderwing Butterfly",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": null,
+    "effect": "Enduring",
+    "hearts": "2",
+    "name": "Tireless Frog",
+    "resale": "20",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "2:30",
+    "effect": "Spicy",
+    "hearts": null,
+    "name": "Warm Darner",
+    "resale": "2",
+    "type": null
+  },
+  {
+    "category": "critters",
+    "duration": "2:30",
+    "effect": "Chilly",
+    "hearts": null,
+    "name": "Winterwing Butterfly",
+    "resale": "2",
+    "type": null
+  }
+]
